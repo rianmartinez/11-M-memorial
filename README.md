@@ -4,4 +4,4 @@ Este proyecto de la asignatura Sistemas Basados en Computador (SBC) tiene como o
 
 La implementación de los sensores será realizada en Arduino y para llevar a cabo la trazabilidad, la monitorización y el control de los datos recogidos por estos sensores se va a hacer uso de la plataforma IoT Thingsboard.
 
-Toda la información relacionada con el proyecto se cuentra en la memoria realizada.
+Toda la información relacionada con el proyecto se cuentra en la memoria realizada, la cual se adjunta en el repositorio del proyecto. 
